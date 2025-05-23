@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lupus7477!
 
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> — Cory House
+> “My name is Linus Torvalds and I am your god.”  
+> — Linus Witascheck
 
 ## 🙋‍♂️ About Me
 
