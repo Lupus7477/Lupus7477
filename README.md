@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lupus7477!
 
-> “My name is Linus Torvalds and I am your god.”  
-> — Linus Witascheck
+> “Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program”  
+> — Linus Torvalds
 
 ## 🙋‍♂️ About Me
 
