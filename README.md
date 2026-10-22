@@ -1,9 +1,26 @@
-# 👋 Hi, I'm Lupus7477!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Lupus7477&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Business%20Informatics%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Co-Founder%20%40%20WEMASYS&descSize=18&descAlignY=58" alt="Lupus7477"/>
+</p>
+
+<p align="center">
+  <a href="https://wemasys.de/"><img src="https://img.shields.io/badge/WEMASYS-Co--Founder-1F2937?style=for-the-badge" alt="WEMASYS Co-Founder"/></a>
+  <!-- LinkedIn: replace YOUR-PROFILE, then delete this comment line and the closing one below
+  <a href="https://www.linkedin.com/in/YOUR-PROFILE/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="28"/></a>
+  -->
+</p>
 
 > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
 > — Linus Torvalds
 
-I'm a **Business Informatics** student at the **University of Kassel** 🇩🇪 and I write software for fun, for my studies and for real-world use. I lean towards the backend, but I enjoy working across the full stack.
+## 🙋‍♂️ About Me
+
+```yaml
+studying:   Business Informatics @ University of Kassel 🇩🇪
+co_founder: WEMASYS IT-Solutions UG  # "WE. MAKE. SYSTEMS."
+focus:      [full-stack web apps, local AI tools]
+currently:  contributing to wordcraft (Rust)
+offline:    dancing 🕺
+```
 
 ## 🚀 Projects
 
@@ -17,6 +34,9 @@ An AI study platform that runs completely on your own machine. You upload your l
 
 Go REST backend · PDF parsing · local LLM via Ollama · offline-capable PWA
 
+### 🏢 [WEMASYS IT-Solutions](https://wemasys.de/)
+Co-founder of an IT company that helps small and mid-sized businesses with automation, websites, system setup and maintenance.
+
 ## 🤝 Open Source Contributions
 
 - **[wordcraft](https://github.com/storytold/wordcraft)**, a clean-room reimplementation of Microsoft Word in Rust:
@@ -26,19 +46,25 @@ Go REST backend · PDF parsing · local LLM via Ollama · offline-capable PWA
 
 ## 💻 Tech Stack
 
-**Languages:**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/rust/CE422B" alt="Rust" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
+</p>
 
-**Web & Backend:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+**What I build:** full-stack web apps, local AI tools, backend services and Discord bots 🤖
 
-**What I build:** local AI tools, backend services, full-stack web apps and Discord bots 🤖
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lupus7477&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lupus7477&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
 ## 🌱 How I Write Code
 
@@ -52,3 +78,7 @@ Go REST backend · PDF parsing · local LLM via Ollama · offline-capable PWA
 ## 🕺 When I'm Not Coding
 
 I dance. Movement is my other creative outlet, so I'm always switching between code and rhythm.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=100&section=footer" alt=""/>
+</p>
